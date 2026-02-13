@@ -7,18 +7,28 @@ Sales performance and Revenue Analysis
 
 # Objectives
 --> Analyze total revenue and sales performance
+
 --> Identify top-performing products
+
 --> Evaluate region-wise sales distribution
+
 --> Detect sales trends over time
+
 --> Calculate profit margins and growth rates
+
 --> Generate business insights for strategic planning
 
 # Tools and Technologies Used 
 --> Python
+
 --> Pandas (Data Cleaning & Analysis)
+
 --> NumPy
+
 --> Matplotlib
+
 --> Seaborn
+
 --> Jupyter Notebook
 
 # Project Workflow
@@ -47,15 +57,25 @@ Sales performance and Revenue Analysis
 
 # Key Insights
 --> Identified highest revenue-generating products
+
 --> Determined peak sales months
+
 --> Analyzed region contributing maximum profit
+
 --> Found underperforming categories
+
 --> Observed sales growth trends over time
 
 # Business Impact
+
 The insights from this analysis can help:
+
 --> Improve inventory planning
+
 --> Optimize marketing strategies
+
 --> Focus on profitable regions
+
 --> Reduce losses from underperforming products
+
 --> Forecast future revenue trends
