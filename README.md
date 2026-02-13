@@ -39,26 +39,41 @@ Sales performance and Revenue Analysis
 # Project Workflow
 
 1️) Data Collection
+
     Imported sales dataset
+    
     Examined structure, columns, and data types
 
 2️) Data Cleaning
+
     Handled missing values
+    
     Removed duplicates
+    
     Converted date columns
+    
     Formatted numerical values
     
 3️) Exploratory Data Analysis (EDA)
+
     Revenue distribution analysis
+    
     Monthly & yearly trend analysis
+    
     Product performance comparison
+    
     Regional sales analysis
+    
     Profitability assessment
 
 4️) Visualization
+
     Bar charts
+    
     Line plots
+    
     Pie charts
+    
     Revenue trend graphs
 
 # Key Insights
